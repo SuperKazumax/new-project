@@ -18,3 +18,7 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - Review AI: checks bugs, security risks, and design mistakes.
 - Test AI: focuses on test cases, reproduction steps, and verification.
 - UI/UX AI: checks screen flow, wording, layout, and user experience.
+
+## Sweet Land Planning
+
+- [Sweet Land YouTube Release Checklist](./SWEETLAND_RELEASE_CHECKLIST.md)
