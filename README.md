@@ -1,18 +1,20 @@
 # New project
 
-This repository is managed with GitHub pull requests.
+This repository is managed with GitHub pull requests and AI-assisted review.
 
 ## Workflow
 
-1. Create a branch for each task or person.
-2. Make changes in that branch.
-3. Push the branch to GitHub.
-4. Open a pull request.
-5. An administrator reviews the changes.
+1. Create a branch for each feature or fix.
+2. Implement changes with AI role separation when useful.
+3. Run checks and review the changed files.
+4. Push the branch to GitHub.
+5. Open a pull request.
 6. Merge into `main` only after approval.
 
 ## Roles
 
-- Administrator: reviews pull requests and merges approved changes.
-- Worker: edits files on a separate branch and opens pull requests.
-
+- Owner: decides priorities and approves final direction.
+- Lead AI: plans work, edits the main branch or feature branch, and integrates results.
+- Review AI: checks bugs, security risks, and design mistakes.
+- Test AI: focuses on test cases, reproduction steps, and verification.
+- UI/UX AI: checks screen flow, wording, layout, and user experience.
