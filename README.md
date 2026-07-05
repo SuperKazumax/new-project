@@ -32,4 +32,5 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land Hardware Shopping List](./SWEETLAND_HARDWARE_SHOPPING_LIST.md)
 - [Sweet Land Control Gateway Spec](./SWEETLAND_CONTROL_GATEWAY_SPEC.md)
 - [Sweet Land Mock Gateway Implementation Plan](./SWEETLAND_MOCK_GATEWAY_IMPLEMENTATION_PLAN.md)
+- [Sweet Land Servo Safety Checklist](./SWEETLAND_SERVO_SAFETY_CHECKLIST.md)
 - [Sweet Land Handoff Prompt](./SWEETLAND_HANDOFF_PROMPT.md)
