@@ -26,6 +26,7 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land Project Roadmap](./SWEETLAND_PROJECT_ROADMAP.md)
 - [Sweet Land Next Actions](./SWEETLAND_NEXT_ACTIONS.md)
 - [Sweet Land GitHub Issues](./SWEETLAND_GITHUB_ISSUES.md)
+- [Sweet Land Implementation Notes](./SWEETLAND_IMPLEMENTATION_NOTES.md)
 - [Sweet Land Stream Operation Flow](./SWEETLAND_STREAM_FLOW.md)
 - [Sweet Land Live Runbook](./SWEETLAND_LIVE_RUNBOOK.md)
 - [Sweet Land Public Copy](./SWEETLAND_PUBLIC_COPY.md)
