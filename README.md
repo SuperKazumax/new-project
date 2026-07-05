@@ -24,4 +24,5 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land YouTube Release Checklist](./SWEETLAND_RELEASE_CHECKLIST.md)
 - [Sweet Land Implementation Tasks](./SWEETLAND_TASKS.md)
 - [Sweet Land Stream Operation Flow](./SWEETLAND_STREAM_FLOW.md)
+- [Sweet Land Live Runbook](./SWEETLAND_LIVE_RUNBOOK.md)
 - [Sweet Land Handoff Prompt](./SWEETLAND_HANDOFF_PROMPT.md)
