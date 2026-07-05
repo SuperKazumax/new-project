@@ -23,6 +23,7 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 
 - [Sweet Land YouTube Release Checklist](./SWEETLAND_RELEASE_CHECKLIST.md)
 - [Sweet Land Implementation Tasks](./SWEETLAND_TASKS.md)
+- [Sweet Land Project Roadmap](./SWEETLAND_PROJECT_ROADMAP.md)
 - [Sweet Land Stream Operation Flow](./SWEETLAND_STREAM_FLOW.md)
 - [Sweet Land Live Runbook](./SWEETLAND_LIVE_RUNBOOK.md)
 - [Sweet Land Public Copy](./SWEETLAND_PUBLIC_COPY.md)
@@ -33,4 +34,5 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land Control Gateway Spec](./SWEETLAND_CONTROL_GATEWAY_SPEC.md)
 - [Sweet Land Mock Gateway Implementation Plan](./SWEETLAND_MOCK_GATEWAY_IMPLEMENTATION_PLAN.md)
 - [Sweet Land Servo Safety Checklist](./SWEETLAND_SERVO_SAFETY_CHECKLIST.md)
+- [Sweet Land PayPay And Membership Plan](./SWEETLAND_PAYPAY_MEMBERSHIP_PLAN.md)
 - [Sweet Land Handoff Prompt](./SWEETLAND_HANDOFF_PROMPT.md)
