@@ -11,6 +11,16 @@ Sweet LandのYouTube配信/遠隔操作サイトを開発中です。
 最優先は、操作APIをGETで実行できないようにして、状態変更APIをPOST中心にすることです。  
 その次に管理者認証、会員状態のサーバー判定、視聴者向けトップページ、配信前テストの順で進めてください。
 
+## Stream Flow Prompt
+
+Sweet Landの配信中フローをアプリ化してください。  
+管理用リポジトリ `https://github.com/SuperKazumax/new-project` の `SWEETLAND_STREAM_FLOW.md` を読んでください。  
+実装本体は `C:\Users\kazuma\Desktop\AIの作業場\sweetland-server` です。  
+管理者が `21:00 開始` → `受付開始` → `ラスト募集` → `終了準備` → `配信終了` をボタン一発で切り替えられるようにしてください。  
+サーバー状態に `streamPhase` を追加し、状態に応じて新規受付と操作可否を変えてください。  
+緊急停止中は、どの状態でも操作できないようにしてください。  
+管理者以外が配信状態を変更できないようにしてください。
+
 ## Longer Prompt
 
 あなたはSweet Land遠隔操作/YouTube配信用Webサイトの開発支援担当です。
@@ -45,4 +55,3 @@ Sweet LandのYouTube配信/遠隔操作サイトを開発中です。
 - 他のCodexが同時に作業している可能性があるため、同じファイルを触る前に現在の差分を確認する。
 - `main` に直接入れず、できればブランチとPull Requestで進める。
 - 本番公開前は、認証なしの操作APIを残さない。
-
