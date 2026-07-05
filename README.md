@@ -30,4 +30,5 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land 4 Real Machine Integration Plan](./SWEETLAND_REAL_MACHINE_PLAN.md)
 - [Sweet Land 4 Purchase Checklist](./SWEETLAND_PURCHASE_CHECKLIST.md)
 - [Sweet Land Hardware Shopping List](./SWEETLAND_HARDWARE_SHOPPING_LIST.md)
+- [Sweet Land Control Gateway Spec](./SWEETLAND_CONTROL_GATEWAY_SPEC.md)
 - [Sweet Land Handoff Prompt](./SWEETLAND_HANDOFF_PROMPT.md)
