@@ -26,4 +26,6 @@ This repository is managed with GitHub pull requests and AI-assisted review.
 - [Sweet Land Stream Operation Flow](./SWEETLAND_STREAM_FLOW.md)
 - [Sweet Land Live Runbook](./SWEETLAND_LIVE_RUNBOOK.md)
 - [Sweet Land Public Copy](./SWEETLAND_PUBLIC_COPY.md)
+- [Sweet Land Rehearsal Test Sheet](./SWEETLAND_REHEARSAL_TEST_SHEET.md)
+- [Sweet Land 4 Real Machine Integration Plan](./SWEETLAND_REAL_MACHINE_PLAN.md)
 - [Sweet Land Handoff Prompt](./SWEETLAND_HANDOFF_PROMPT.md)
